@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "2024-p1-yuvrajsingh001"
+version = "0.1.0"
+description = ""
+authors = ["Yuvraj Singh <64212975+yuvrajsingh001@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^3.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
